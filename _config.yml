@@ -18,9 +18,9 @@ color:
 # Footer settings
 footer:
   copyright: Artzoomi
-  location: Russia
+  location: Где мы
   social: Мы в соц.сетях
-  credits: Credits
+  credits: Контакты
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -33,11 +33,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Мордовия, Саранск
+  - line: Россия, Мордовия, Саранск
   - line: ул. Коваленко, 20
 
 # Credits content
-credits: 'Условия'
+credits: 'Email: hello@artzoomi.com, Тел.: +7 (964) 851-80-72'
 
 # Build settings
 markdown: kramdown
