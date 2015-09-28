@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-08-27
+date: 2015-09-27
 img: allremote.jpg
 alt: image-alt
 project-date: Сентябрь 2015
