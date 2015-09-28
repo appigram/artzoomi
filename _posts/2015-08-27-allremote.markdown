@@ -2,11 +2,11 @@
 layout: default
 modal-id: 6
 date: 2015-08-27
-img: allremote.jpg
+img: showtkr.jpg
 alt: image-alt
-project-date: Сентябрь 2015
-client: Allremote.ru
+project-date: Август 2015
+client: Showtkr.ru
 category: Веб-разработка
-description: Стояла задача разработать портал для специалистов по удаленной работе. Компании могут оставлять заявки на свежие вакансии. Имеется каталог специалистов, желающих работать удаленно. Технологии: Meteor, MongoDB
+description: Предстояло разработать социальную сеть и сервис по оповещению пользователей о выходе новых серий любимых сериалов и аниме. Технологии: Meteor, MongoDB
 
 ---
