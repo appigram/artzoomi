@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 25.12.2014
+date: 2014-12-25
 img: magsevi.jpg
 alt: image-alt
 project-date: Декабрь 2014

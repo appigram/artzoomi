@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 11.05.2015
+date: 2015-05-11
 img: rulty.jpg
 alt: image-alt
 project-date: Май 2015
