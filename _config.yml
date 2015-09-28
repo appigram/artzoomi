@@ -37,9 +37,7 @@ address:
   - line: ул. Коваленко, 20
 
 # Credits content
-credits: 
-  -line: Email: hello@artzoomi.com
-  -line: Тел.: +7 (964) 851-80-72
+credits: 'Email: hello@artzoomi.com\n Тел.: +7 (964) 851-80-72'
 
 # Build settings
 markdown: kramdown
