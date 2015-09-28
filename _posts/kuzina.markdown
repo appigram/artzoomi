@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 20.09.2014
-img: kuzina.jpg
+img: submarine.png
 alt: image-alt
 project-date: Сентябрь 2014
 client: Композитор Кузина Е.В.

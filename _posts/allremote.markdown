@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 27.09.2015
-img: allremote.jpg
+img: safe.png
 alt: image-alt
 project-date: Сентрябрь 2015
 client: Allremote.ru
